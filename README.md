@@ -25,13 +25,20 @@
 
 ---
 ## progress :
-1. collection of raw data
-2. camera calibration
-3. Preparatory knowledge:
+1. collection of raw data and calibration
+      * Infrared camera :
+      ![calibrationir_screen](https://github.com/Popeye-Wu/The-registration-fusion-and-depth-estimation-based-on-infrared-and-visible-cameras/assets/102772656/5719e6fd-1cdf-4ebd-9321-2b079e438cd9)
+      * zoom camera :
+      ![calibrationvisal_screen](https://github.com/Popeye-Wu/The-registration-fusion-and-depth-estimation-based-on-infrared-and-visible-cameras/assets/102772656/720963f9-fcc2-4fa4-9a76-3b7555800796)
+
+4. Preparatory knowledge:
+   
    3.1. Homography matrix
+   
    3.2. Fundamental matrix
+   
    3.3. Eseensial matrix
-4. ...
+6. ...
 
    
 ---
