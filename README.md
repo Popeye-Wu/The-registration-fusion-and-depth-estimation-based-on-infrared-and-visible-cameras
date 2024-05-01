@@ -31,6 +31,8 @@
       * zoom camera :
       ![calibrationvisal_screen](https://github.com/Popeye-Wu/The-registration-fusion-and-depth-estimation-based-on-infrared-and-visible-cameras/assets/102772656/720963f9-fcc2-4fa4-9a76-3b7555800796)
 
+      link:https://pan.baidu.com/s/1RXCLIQRYUK79ObLVCQsXSg, key：vbks for raw image date
+
 4. Preparatory knowledge:
    
    3.1. Homography matrix
